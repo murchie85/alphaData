@@ -21,6 +21,7 @@ The application should
 - Scottish GP Medical Insights  
 - Mental Health Statistics (global)
 - Bus timetable (Simple page: Put in my postcode and optional bus number)
+- IN MY AREA: Charities, Churches, Community Centers
 
 
 
