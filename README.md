@@ -1,4 +1,4 @@
-# MEDICAL / ETHICAL DATA SERVICE 
+# SOCIAL UTILITY DATA SERVICE 
   
 
 ## Core Acceptance Criterea
